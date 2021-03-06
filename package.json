@@ -1,0 +1,16 @@
+{
+  "name": "vjezba-batman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "random-fruits-name": "^1.9.0",
+    "random-item": "^3.1.0"
+  }
+}
